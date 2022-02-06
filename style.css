@@ -1,0 +1,285 @@
+/* Color Scheme:
+#687864
+#31708E
+#5085A5
+#8FC1E3
+#F7F9FB
+ */
+
+
+body {
+
+}
+
+img {
+
+}
+
+td {
+    padding: 1rem;
+}
+
+/* Classes for first block */
+/* Style for first block on mainpage */
+.first-block {
+    background-image: url("images/firstSLide.jpg");
+    background-color: #F7F9FB;
+    background-position: center;
+    background-size: cover;
+    color: Black;
+}
+
+.nav-table {
+
+}
+
+/* Centering first block vertically */
+.center-vertical {
+    padding-top: 15rem;
+    padding-bottom: 15rem;
+}
+
+
+/* Style for my name in first block */
+.central-name {
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 600%;
+}
+
+/* Classes for links on first block */
+.link-table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+}
+
+.link-images {
+    max-height: 2rem;
+}
+
+/* Classes for second block */
+
+.about-block {
+    background-color: #31708E;
+    color: white;
+    padding-bottom: 2rem;
+}
+
+/* Style for about me */
+.about-me {
+    padding-top: 5rem;
+    font-size: 300%;
+    padding-bottom: 4rem;
+}
+
+/* style for my photo */
+.self-photo {
+    border-radius: 50%;
+}
+
+/* Style for about me text*/
+.about-me-text {
+    width: 50rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* properly aligns the about blocks */
+.about-blocks {
+    max-width: 50rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0rem
+}
+
+/* puts it under block correctly */
+.first-about-block {
+    /* margin-top: 10rem; */
+}
+
+/* makes images smaller and fit */
+.about-images {
+    width:10%;
+    margin: 1rem;
+}
+
+/* style for about title */
+.about-title {
+    text-align: center;
+    text-decoration: underline;
+    padding-bottom: 0;
+}
+
+/* styles for about paragraphs */
+.about-pg {
+    text-align: left;
+    line-height: 1.5;
+}
+
+.media-body {
+    line-height: 1.5;
+}
+
+
+/* Classes for third block */
+
+.education-block {
+    background-color: #F7F9FB;
+    color: black;
+    margin-bottom: 0;
+}
+
+/* gets list stuff to align left */
+.td-align {
+    text-align: left;
+    padding: 0;
+    padding-right: 0.5rem;
+}
+
+/* spacing out list elements */
+.td-space {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+/* coloring and spacing of skill titles */
+.skill-titles {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: black;
+}
+
+/* spacing out for imgs */
+.td-images {
+    width: 2rem;
+    height: 2rem;
+}
+
+/* image space as td */
+.td-images-space {
+    padding-right: 2.5rem;
+}
+
+/* get everything aligned vertically */
+.td-align-top {
+    vertical-align: top;
+}
+
+/* Classes for fourth block */
+
+.projects-block {
+    background-color: #5085A5;
+    color: white;
+}
+
+/* nothing lol */
+.conway-div {
+
+}
+
+/* styling for the iphone gifs */
+.conway-gif {
+    width: 10rem;
+    border-radius: 12%;
+    margin-top: 1rem;
+}
+
+/* center used images within table */
+.used-tools {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+/* center used images */
+.used-images {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* spacing for tool table */
+.used-table {
+    margin-top: 0.5rem;
+
+}
+
+
+
+
+/* spaces for desciption of projects */
+.used-description {
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.used-description1 {
+    margin-top: 0.5rem;
+    margin-bottom: 0rem;
+    padding-bottom: 4rem;
+}
+
+
+.last-used-description {
+    margin-bottom: 0rem;
+    padding-bottom: 2rem;
+}
+
+
+
+/* style for website screenshot code */
+.website-image {
+    width: 40rem;
+    margin-top: 1rem;
+}
+
+/* styles for ip block */
+.ip-block {
+    background-color: #F7F9FB;
+    color: black;
+}
+
+/* styles for experience block */
+
+.experience-block {
+    background-color: #8FC1E3;
+    color: black;
+}
+
+.company-images {
+    width: 5rem;
+}
+
+.contact {
+padding-bottom: 3rem;
+
+}
+
+.footer {
+
+}
+
+.interests-text {
+    margin-bottom: 3rem;
+    margin-top: 0rem;
+}
+
+.more-about-me {
+    padding-bottom: 1rem;
+}
+
+/* IDs */
+
+#bt1 {
+
+}
+
+#fr1 {
+    margin-top: 0rem;
+    padding-bottom: 3rem;
+}
+
+#interests {
+    padding-top: 1rem;
+}
