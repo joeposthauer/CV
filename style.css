@@ -281,6 +281,9 @@ padding-bottom: 3rem;
     text-align: center;
 }
 
+.skill-bigger-titles {
+    text-align: center;
+}
 /* IDs */
 
 #bt1 {
@@ -295,3 +298,4 @@ padding-bottom: 3rem;
 #interests {
     padding-top: 1rem;
 }
+
