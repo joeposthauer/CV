@@ -19,10 +19,14 @@ td {
     padding: 1rem;
 }
 
+table {
+    color: white;
+}
+
 /* Classes for first block */
 /* Style for first block on mainpage */
 .first-block {
-    background-image: url("Images/firstSLide.jpg");
+    background-image: url("images/firstSLide.jpg");
     background-color: #F7F9FB;
     background-position: center;
     background-size: cover;
@@ -136,6 +140,8 @@ td {
 .td-align {
     text-align: left;
     padding: 0;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
     padding-right: 0.5rem;
 }
 
@@ -267,6 +273,11 @@ padding-bottom: 3rem;
 
 .more-about-me {
     padding-bottom: 1rem;
+}
+
+.contact-table {
+    color: black;
+    text-align: center;
 }
 
 /* IDs */
