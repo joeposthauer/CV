@@ -180,6 +180,7 @@ table {
 .projects-block {
     background-color: #5085A5;
     color: white;
+    margin-bottom: 0;
 }
 
 /* nothing lol */
@@ -252,6 +253,7 @@ table {
 .experience-block {
     background-color: #8FC1E3;
     color: black;
+    margin-top: 0;
 }
 
 .company-images {
@@ -298,4 +300,3 @@ padding-bottom: 3rem;
 #interests {
     padding-top: 1rem;
 }
-
